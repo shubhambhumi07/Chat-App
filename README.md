@@ -49,7 +49,7 @@ It has a modern interface, is lightweight, and can be run locally or used direct
 
 ## Usage  
 
-- In local development, open the frontend at: **http://localhost:5001**  
+- In local development, open the frontend at: **http://localhost:5173**  
 - Create an account or log in  
 - Start chatting  
 
