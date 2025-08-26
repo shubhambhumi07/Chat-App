@@ -77,7 +77,8 @@ It has a modern interface, is lightweight, and can be run locally or used direct
  
 
 **Home Page:**  
-![Home Page](https://github.com/shubhambhumi07/Chat-App/blob/main/assets/home.png)  
+![Homepage Screenshot](client/public/home.png)
+
 
  
 
