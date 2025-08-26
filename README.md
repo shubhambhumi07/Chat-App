@@ -38,7 +38,7 @@ It has a modern interface, is lightweight, and can be run locally or used direct
   - `JWT_SECRET=your_secret_key`  
 
 - Frontend (`client/.env.local`):  
-  - `VITE_BACKEND_URL=http://localhost:5001` (for local)  
+  - `VITE_BACKEND_URL=http://localhost:5173` (for local)  
   - `VITE_BACKEND_URL=https://chat-app-backend-phi-murex.vercel.app` (for production)  
 
 **4. Run the project locally:**  
