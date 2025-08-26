@@ -55,7 +55,7 @@ It has a modern interface, is lightweight, and can be run locally or used direct
 
 **Deployed Links:**  
 - Frontend (Netlify): [https://keen-torrone-0eec51.netlify.app](https://keen-torrone-0eec51.netlify.app)  
-- Backend (Vercel): [https://chat-app-backend-phi-murex.vercel.app](https://chat-app-backend-phi-murex.vercel.app)  
+- Backend (Vercel): [https://chat-app-backend-phi-murex.vercel.app](https://chat-app-backend-phi-murex.vercel.app/api/status)  
 
 ---
 
