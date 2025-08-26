@@ -74,13 +74,12 @@ It has a modern interface, is lightweight, and can be run locally or used direct
 
 ## Screenshots  
 
-**Login Page:**  
-![Login Page](https://github.com/shubhambhumi07/Chat-App/blob/main/assets/login.png)  
+ 
 
 **Home Page:**  
 ![Home Page](https://github.com/shubhambhumi07/Chat-App/blob/main/assets/home.png)  
 
-*(Make sure to upload your screenshots into an `assets/` folder in your repo and rename them `login.png` and `home.png`.)*  
+ 
 
 ---
 
